@@ -13,7 +13,7 @@
   "dependencies": {
     "@jiaminghi/data-view": "^2.9.0",
     "ant-design-vue": "^1.6.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "echarts": "^4.8.0",
     "jquery": "^3.5.1",
     "less-loader": "^4.1.0",
